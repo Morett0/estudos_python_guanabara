@@ -1,0 +1,15 @@
+# Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+
+a = int(input('Digite um número: '))
+print('-'*12)
+print(f'{a} x {1:2} = {a*1}')
+print(f'{a} x {2:2} = {a*2}')
+print(f'{a} x {3:2} = {a*3}')
+print(f'{a} x {4:2} = {a*4}')
+print(f'{a} x {5:2} = {a*5}')
+print(f'{a} x {6:2} = {a*6}')
+print(f'{a} x {7:2} = {a*7}')
+print(f'{a} x {8:2} = {a*8}')
+print(f'{a} x {9:2} = {a*9}')
+print(f'{a} x {10:2} = {a*10}')
+print('-'*12)
