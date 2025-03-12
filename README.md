@@ -5,4 +5,5 @@ Este repositório contém os exercícios que estou fazendo enquanto estudo Pytho
 ## Descrição
 
 Os exercícios são baseados na playlist do YouTube: Curso de Python.
+
 Link: https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
