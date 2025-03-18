@@ -10,5 +10,3 @@ b = int(input('Razão: '))
 for c in range(10):
  print(a + (b * c), end=' -> ')
 print('ACABOU')
-
-
