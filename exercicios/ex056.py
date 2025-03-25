@@ -34,7 +34,7 @@ media_idade = soma_idade / 4
 
 print(f'A média de idade do grupo é de {soma_idade / 4}')
 if nome_homem_velho:
-    print(f'O homem mais velho o homem mais velho tem {idade_maior} anos e se chama {nome_homem_velho}.')
+    print(f'O homem mais velho tem {idade_maior} anos e se chama {nome_homem_velho}.')
 else:
     print('Não tem homem no grupo.')
 if mulher_menos20:
